@@ -16,4 +16,4 @@ print(string_num)
 # print(string_num)
 
 # ДРугой вариант решения ? не работает?
-string_num=list(map(input("Введите числа через пробел: ").split()))
+# string_num=list(map(input("Введите числа через пробел: ").split()))
